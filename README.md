@@ -1,0 +1,1 @@
+Figma design sample is inside the public folder
